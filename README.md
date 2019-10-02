@@ -11,7 +11,7 @@ The program will read from a csv file add “Parsed” as one of the headings wi
 ##How to Run 
 Once repo on your local environment, work your way to the folder using the terminal and run: 
 >
->python in_n_out_app.py -i "directory of input csv file" -o "directory of the output directory"
+>python in_n_out_app.py -i "directory of input csv file" -o "directory of the output csv file"
 >
 the program will read the file, add the lines in the csv file to a list. List will than be sent to a csv file that will 
 add the new heading, in addition with the date next to the file lines
